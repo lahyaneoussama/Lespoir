@@ -1,0 +1,48 @@
+.Header{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    background-color: #dbe8e5;
+   
+}
+
+.logo img {
+    height: 60px;
+    padding-left: 20px;
+}
+
+.Header nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+}
+
+.Header nav ul li:hover{
+    padding-bottom: 5px;
+    border-bottom: 1px solid #004a4f;
+}
+
+.Header nav ul li a {
+    text-decoration: none;
+    color: #004a4f;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.Header .login-btn {
+    background-color: #a30000;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.Header .login-btn:hover {
+    background-color: #ff4a4a;
+}

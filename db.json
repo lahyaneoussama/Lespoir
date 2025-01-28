@@ -1,0 +1,14 @@
+{
+    "users":[
+        {
+            "nom":"n1",
+            "prenom":"n1",
+            "age":"n1"
+        }, {
+            "nom":"n1",
+            "prenom":"n1",
+            "age":"n1"
+        }
+    ]
+}
+      

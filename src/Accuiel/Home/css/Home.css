@@ -1,7 +1,14 @@
-.Container{
+   .HomePages{
     width: 100%;
-    display: flex;
-    justify-content: space-around;
+    
     background-color: #eef4f1;
+   }
 
-}
+    
+    
+    
+    .Container{
+        display: flex;
+        justify-content: space-around;
+
+    }

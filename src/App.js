@@ -1,4 +1,6 @@
-import Accuil from './Accuiel/Accuil';
+
+
+import Accueil from './Accuiel/Accuil';
 import './App.css';
 import Header from './Header/header';
 
@@ -6,7 +8,7 @@ function App() {
   return (
     <div className="App">
      <Header/>
-     <Accuil/>
+     <Accueil/>
     </div>
   );
 }
